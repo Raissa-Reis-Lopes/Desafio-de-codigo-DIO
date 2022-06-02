@@ -1,4 +1,4 @@
-# Desafio-de-códigoe-e projeto-DIO
+# Desafio-de-código-e projeto-DIO
 
 O desafio de projeto do github era criar o primeiro repositório, vou aproveitar para unir nesse repositório todos os futuros desafios de código e projeto que eu realizar ao longo da minha  jornada!
 
