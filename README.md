@@ -1,6 +1,6 @@
-# Desafio-de-código-DIO
+# Desafio-de-códigoe-e projeto-DIO
 
-O desafio do guthub era criar o primeiro repositório, vou aproveitar para unir nesse repositório todos os futuros desafios de código e projeto que eu realizar ao longo da minha  jornada!
+O desafio de projeto do github era criar o primeiro repositório, vou aproveitar para unir nesse repositório todos os futuros desafios de código e projeto que eu realizar ao longo da minha  jornada!
 
 Desafio de código realizados ao longo de cursos e Bootcamps na DIO
 
