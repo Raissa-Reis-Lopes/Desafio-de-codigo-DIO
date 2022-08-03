@@ -1,6 +1,6 @@
 <h1>Desafio realizado no Bootcamp Santander Code Girls</h1>
 
-
+Utilizei o Readme fornecido pela professora, pois estava bem completo e apresentou tudo que desenvolvemos ao longo do projeto, todos os conteúdos que abordamos e trabalhamos na prática: Abstração, Encapsulamento, Herança, Polimorfismo
 
 <h1> Aprenda na Prática Programação Orientada a Objetos</h1>
 
