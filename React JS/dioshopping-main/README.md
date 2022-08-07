@@ -1,3 +1,13 @@
+# Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+
+Projeto desenvolvido no bootcamp Impulso JavaScript da DIO com a professora Nathaly!
+
+Fizemos a integração do front-end com o back-end utilizando o Node e o React para construírmos uma página de um e-commerce!! Conforme eu for aprendendo novas ferramentas vou realizar novas implementações!!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
